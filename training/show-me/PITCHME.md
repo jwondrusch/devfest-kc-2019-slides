@@ -112,37 +112,7 @@ Note:
 ---
 @snap[north slide-headline span-100]
 ## Serverless Setup
-```
-npm install -g serverless
-serverless create --template google-nodejs --path devfest-kc
-cd devfest-kc
-npm install
-```
 @snapend
----?code=assets/src/serverless.yml&lang=yml
----
-@snap[north slide-headline span-100]
-## Serverless Setup
-```javascript
-// index.js
-
-/**
- * Background Cloud Function to be triggered by Pub/Sub.
- * This function is exported by index.js, and executed when
- * the trigger topic receives a message.
- *
- * @param {object} event The Cloud Functions event.
- * @param {function} callback The callback function.
- */
-exports.myTopicPubSub = (event, callback) => {
-  const pubsubMessage = event.data;
-  const name = pubsubMessage.data
-    ? Buffer.from(pubsubMessage.data, 'base64').toString()
-    : 'World';
-
-  console.log(`Hello, ${name}!`);
-
-  callback();
-};
-```
-@snapend
+---?code=assets/src/serverless.sh&lang=bash&title=Install Script
+---?code=assets/src/serverless.yml&lang=yml&title=serverless.yml
+---?code=assets/src/serverless.yml&lang=yml&title=index.js
