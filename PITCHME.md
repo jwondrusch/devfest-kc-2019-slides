@@ -119,13 +119,13 @@ Note:
 @snapend
 
 @snap[midpoint span-100]
-@ul
+@ol[mb-40]
 - Sustained / Committed Use
 - Autoscaler
 - DIY
-@ulend
+@olend
 
-#### @css[oj fragment mt-50](Requires commitment.<br> Are you ready for that?)
+#### @css[oj fragment](Requires commitment.<br> Are you ready for that?)
 @snapend
 ---
 
