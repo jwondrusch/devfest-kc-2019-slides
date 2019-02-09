@@ -2,6 +2,8 @@
 
 ---?include=training/introduction/PITCHME.md
 
+---?include=training/basics/PITCHME.md
+
 @snap[midpoint slide-headline span-100]
 # Pop Quiz!
 @snapend
