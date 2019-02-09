@@ -36,9 +36,7 @@
 - @css[font-06](Felt like starting a company is a ton of work and you have an idea, but no clue where you'd actually start.
 @ulend
 
-@ul
-#### @css[oj]**Seriously**, where do you even _begin_?)
-@ulend
+#### @css[text-orange fragment](**Seriously**, where do you even _begin_?)
 
 @snapend
 
