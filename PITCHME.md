@@ -63,11 +63,11 @@
 ---
 
 @snap[west]
-@fa[code bio-about](Application Developer)<br/>
+@fa[code bio-about](Application Developer)<br>
 @fa[flask bio-about](Founder)
-<br><br><br>
+<br><br>
 @fa[terminal fa-3x bio-fa](dev)<br/>
-<br><br><br>
+<br><br>
 @fa[gamepad bio-about](Gamer)<br>
 @fa[book bio-about](Reader)<br>
 @snapend
