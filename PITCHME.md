@@ -82,12 +82,20 @@
 @snap[midpoint]
 @color[#f8d026](@fa[bolt text-60])
 @snapend
+
 ---
+
+@snap[midpoint span-100]
+## How do you build a startup?
+@snapend
+
+---
+
 @snap[north span-100 mb-25]
 ## The "Right" Way
 @snapend
 
-@snap[west]
+@snap[west fragment]
 #### Back-end
 @ul
 - Hosting/Cloud Provider
@@ -98,7 +106,7 @@
 @ulend
 @snapend
 
-@snap[east]
+@snap[east fragment]
 #### Front-end
 @ul
 - Design
@@ -109,6 +117,15 @@
 @ulend
 @snapend
 
+---
+
+@snap[north span-100]
+## See any problems?
+@snapend
+
+@snap[midpoint]
+@fa[hand-paper-o text-60]
+@snapend
 ---
 
 @snap[north span-100 mb-40]
