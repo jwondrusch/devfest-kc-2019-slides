@@ -115,11 +115,11 @@ Note:
 - $$$ for backups
 ---
 @snap[north span-100]
-## How Do You Reduce Costs?
+## How to Control Costs?
 @snapend
 
 @snap[midpoint span-100]
-@ol[mb-40]
+@ol[mt-30 mb-40]
 - Sustained / Committed Use
 - Autoscaler
 - DIY

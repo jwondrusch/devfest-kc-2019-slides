@@ -27,6 +27,19 @@ Note:
 3. **The Potential**: How Serverless can save the day
 ---
 @snap[north slide-headline span-100]
+## 1 Crazy Idea
+@snapend
+
+@snap[midpoint span-100 text-40]
+@color[red]($800+/mo) @color[yellow](=>) @color[green]($10/mo)
+@snapend
+
+Note:
+1. **The Basics**: What is Serverless? What are Startups?
+2. **Startup Realities**: Wide variety of skillsets required to scale, cost, cost, cost.
+3. **The Potential**: How Serverless can save the day
+---
+@snap[north slide-headline span-100]
 ## Ground Rules
 @snapend
 
