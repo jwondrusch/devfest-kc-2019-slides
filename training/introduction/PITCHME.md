@@ -30,15 +30,16 @@ Note:
 ## 1 Crazy Idea
 @snapend
 
-@snap[west process process--danger fragment]
+@snap[west process process--danger w-33 fragment]
 @css[text-30](@fa[dollar]@fa[dollar]@fa[dollar])
 @css[text-06]($800+/mo)
 @snapend
 
-@snap[midpoint]
+@snap[midpoint process process--transparent w-25]
+@css[text-30](@fa[chevron-right])
 @snapend
 
-@snap[east process process--success fragment]
+@snap[east process process--success w-33 fragment]
 @css[text-30](@fa[dollar])
 @css[text-06]($10/mo)
 @snapend

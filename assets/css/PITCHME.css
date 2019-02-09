@@ -35,6 +35,7 @@
 
 .process--success { background:#009933; }
 .process--danger { background:#993300; }
+.process--transparent { background: transparent; }
 
 .process i { margin-bottom: 20px; }
 .reveal section img {
@@ -97,6 +98,9 @@
 .text-50 { font-size: 5em; }
 .text-60 { font-size: 6em; }
 
+.w-25 { width: 25% }
+.w-33 { width: 33% }
+.w-50 { width: 50% }
 
 .mt-10 { margin-top: 10px !important; }
 .mt-20 { margin-top: 20px !important; }
