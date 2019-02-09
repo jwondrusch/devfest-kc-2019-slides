@@ -13,8 +13,8 @@
 @snap[west span-60]
 ## Ground Rules
 @ul[spaced]
-- @color[#e6cf8b](@fa[question-circle fa-spin]) Questions welcome!
-- Be ready to answer some.
+- @color[#e6cf8b](@fa[question-circle] @fa[question-circle] @fa[question-circle])'s Welcome!
+- @color[#e6cf8b](@fa[hand-paper-o]) Participation!
 @ulend
 @snapend
 
