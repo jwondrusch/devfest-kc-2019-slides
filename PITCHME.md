@@ -24,10 +24,18 @@
 ---
 
 @snap[north span-100 headline]
-## Now It's Your Turn
+## Raise Your Hand If You Have Ever...
 @snapend
 
-@snap[south span-100 text-06]
+@snap
+@ul
+- Had an idea for a startup.
+- Actually written code for that idea.
+- Work for a startup.
+- Founded a startup.
+- @css[font-06](Felt like starting a company is a ton of work and you have an idea, but no clue where you'd actually start. @css[oj](**Seriously**, where do even _begin_)?)
+
+@ulend
 @snapend
 
 ---
