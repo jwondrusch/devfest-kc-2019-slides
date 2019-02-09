@@ -79,9 +79,11 @@ Note:
 @css[text-06](Gatsby)
 @snapend
 ---
-@snap[north slide-headline span-100]
-## Workflow
+
+@snap[midpoint slide-headline span-100]
+# Workflow
 @snapend
+
 ---
 @snap[north slide-headline span-100]
 ## Back-end
@@ -110,9 +112,11 @@ Note:
 ## Pub/Sub Setup
 @snapend
 ---
-@snap[north slide-headline span-100]
-## Serverless Setup
+
+@snap[midpoint slide-headline span-100]
+# @css[oj](Serverless) Setup
 @snapend
+
 ---?code=assets/src/serverless.sh&lang=bash&title=Install Script
 ---?code=assets/src/serverless.yml&lang=yml&title=serverless.yml
----?code=assets/src/serverless.yml&lang=yml&title=index.js
+---?code=assets/src/serverless.index.js&lang=js&title=index.js
