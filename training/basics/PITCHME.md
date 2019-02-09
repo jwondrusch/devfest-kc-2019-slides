@@ -11,9 +11,8 @@
 # The Framework
 @snapend
 
-@snap[midpoint span-100 mt-50]
-
-![Serverless Framework](assets/img/serverless-logo.png)
+@snap[midpoint span-100 mt-50 ]
+@img[serverless-logo mb-30](assets/img/serverless-logo.png)
 #### @css[oj](Best branding in the space, right?)
 @snapend
 ---
