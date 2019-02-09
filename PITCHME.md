@@ -83,8 +83,8 @@
 
 ---
 
-@snap[midpoint slide-headline span-100]
-# @css[mb-40](What is @css[oj](Serverless?)
+@snap[midpoint span-100]
+# @css[mb-40](What is @css[oj](Serverless?))
 ## FaaS? PaaS? IaaS?
 ### @color[#b56969](Huh?!)
 @snapend
