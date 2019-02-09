@@ -61,62 +61,40 @@ Note:
 @quote[A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](Mathias Biilmann (CEO of Netlify)).
 ---
 @snap[north slide-headline span-100]
-## Technologies
+## Technology & Workflow
 @snapend
 
-@snap[west process process--info w-33 fragment]
-@css[text-30](@fa[react])
-@css[text-06](React)
-@snapend
-
-@snap[midpoint process process--info w-33 fragment]
-@css[text-30](@fa[server])
-@css[text-06](Back-end)
-@snapend
-
-@snap[east process process--info w-33 fragment]
-@css[text-30](@fa[react])
-@css[text-06](Gatsby)
-@snapend
----
-
-@snap[midpoint slide-headline span-100]
-# Workflow
-@snapend
+@ul
+- **React or Angular**: Component based libraries.
+- **Static Site Generator:** Gatsby, ng-static-site-generator.
+- **Stripe**: Payments processor.
+@ulend
 
 ---
+
 @snap[north slide-headline span-100]
 ## Back-end
 @snapend
 
-@snap[west process process--info w-33 fragment]
-@css[text-30](@fa[google])
-@css[text-06](Firebase)
-@snapend
+@ul
+- **Firebase**: Functions, Auth, Realtime Database.
+- **Google Cloud** Pub/Sub, Storage
+- **Serverless:** Framework to coordinate events.
 
-@snap[midpoint process process--info w-33 fragment]
-@css[text-30](@fa[refresh])
-@css[text-06](Pub/Sub)
-@snapend
+@ulend
 
-@snap[east process process--info w-33 fragment]
-@css[text-30](@fa[dollar]@fa[dollar]@fa[dollar])
-@css[text-06](Serverless)
-@snapend
 ---
+
 @snap[north slide-headline span-100]
-## Firebase Setup
-@snapend
----
-@snap[north slide-headline span-100]
-## Pub/Sub Setup
-@snapend
----
-
-@snap[midpoint slide-headline span-100]
-# @css[oj](Serverless) Setup
+## Users and Authentication
 @snapend
 
----?code=assets/src/serverless.sh&lang=bash&title=Install Script
----?code=assets/src/serverless.yml&lang=yml&title=serverless.yml
----?code=assets/src/serverless.index.js&lang=js&title=index.js
+@snap[midpoint span-100]
+@ul
+- @css[oj](**Users**): Accounts, Auth
+- @css[oj](**Money**): Orders, Payments, Refunds
+- @css[oj](**Communication**): Content, Email Marketing
+- @css[oj](**Reporting**): Success or Failure?
+@ulend
+@snapend
+---
