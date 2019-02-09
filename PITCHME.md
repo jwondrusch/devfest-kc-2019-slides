@@ -10,16 +10,18 @@
 @snapend
 ---
 
-@snap[west span-60]
+@snap[north slide-headline span-100]
 ## Ground Rules
-@ul[spaced]
-- @color[#e6cf8b](@fa[question-circle] @fa[question-circle] @fa[question-circle])'s Welcome!
-- @color[#e6cf8b](@fa[hand-paper-o]) Participation!
-@ulend
 @snapend
 
-@snap[east span-40]
+@snap[fragment block]
+@fa[hand-paper-o]
+## Participation
+@snapend
 
+@snap[fragment block]
+@fa[question-circle]
+## Questions
 @snapend
 ---
 
