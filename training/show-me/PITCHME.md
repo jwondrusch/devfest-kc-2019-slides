@@ -80,19 +80,37 @@ Note:
 @snapend
 ---
 @snap[north slide-headline span-100]
+## Workflow
+@snapend
+---
+@snap[north slide-headline span-100]
 ## Back-end
 @snapend
 
 @snap[west process process--info w-33 fragment]
-@css[text-30](@fa[dollar]@fa[dollar]@fa[dollar])
-@css[text-06]($800+/mo)
+@css[text-30](@fa[google])
+@css[text-06](Firebase)
 @snapend
 
 @snap[midpoint process process--info w-33 fragment]
-@css[text-30](@fa[arrow-right])
+@css[text-30](@fa[refresh])
+@css[text-06](Pub/Sub)
 @snapend
 
 @snap[east process process--info w-33 fragment]
-@css[text-30](@fa[dollar])
-@css[text-06]($10/mo)
+@css[text-30](@fa[dollar]@fa[dollar]@fa[dollar])
+@css[text-06](Serverless)
 @snapend
+---
+@snap[north slide-headline span-100]
+## Firebase Setup
+@snapend
+---
+@snap[north slide-headline span-100]
+## Pub/Sub Setup
+@snapend
+---
+@snap[north slide-headline span-100]
+## Serverless
+@snapend
+---
