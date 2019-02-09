@@ -109,7 +109,5 @@
 .mb-40 { margin-bottom: 40px !important; }
 .mb-50 { margin-bottom: 50px !important; }
 
-.reveal img.serverless-logo {
-  max-width: 30%;
-  height: auto;
-}
+.reveal img.serverless-logo { max-width: 30%; }
+.reveal img.serverless-timeline { max-width: 80%; }
