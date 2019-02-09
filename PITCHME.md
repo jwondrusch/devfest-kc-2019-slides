@@ -23,7 +23,7 @@
 @snapend
 ---
 
-@snap[north span-100 headline]
+@snap[north span-100]
 ## Raise Your Hand If You Have Ever...
 @snapend
 
@@ -33,9 +33,11 @@
 - Actually written code for that idea.
 - Work for a startup.
 - Founded a startup.
-- @css[font-06](Felt like starting a company is a ton of work and you have an idea, but no clue where you'd actually start. @css[oj](**Seriously**, where do even _begin_)?)
-
+- @css[font-06](Felt like starting a company is a ton of work and you have an idea, but no clue where you'd actually start.
 @ulend
+
+#### @css[oj](**Seriously**, where do even _begin_)?)
+
 @snapend
 
 ---
