@@ -31,11 +31,9 @@
 @snapend
 
 ---
-
 @snap[midpoint slide-headline span-100]
 # Pop Quiz!
 @snapend
-
 ---
 
 @snap[north slide-headline span-100]
@@ -75,10 +73,43 @@
 @css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
 @snapend
 
----?color=#22264b
+---
+
+@snap[north]
+# Once Upon a Time...
+@snapend
 
 @snap[midpoint]
-@fa[lightbulb-o text-60 fa-spin]
+@color[#f8d026](@fa[bolt text-60])
+@snapend
+---
+@snap[north]
+# Startups the "Right" Way
+@snapend
+
+@snap[west]
+## Back-end
+@ul
+- Hosting or Cloud Provider
+- Database
+- Framework
+- Services
+- Networking
+- Environments
+- Scaling
+
+@ulend
+@snapend
+
+@snap[east]
+## Front-end
+@ul
+- Design
+- Framework
+- Performance
+- Caching
+- Testing
+@ulend
 @snapend
 
 ---
