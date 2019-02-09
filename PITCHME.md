@@ -7,8 +7,8 @@
 @endsnap
 ---
 
-## Ground Rules
 @snap[west span-60]
+## Ground Rules
 @ul[spaced]
 - Questions welcome!
 - Be ready to answer some.
