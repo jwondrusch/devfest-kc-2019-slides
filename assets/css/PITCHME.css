@@ -19,6 +19,8 @@
   font-variant: small-caps;
 }
 
+.slide-headline { margin-bottom: 50px; }
+
 .reveal section img {
   background: none;
   border: none;
