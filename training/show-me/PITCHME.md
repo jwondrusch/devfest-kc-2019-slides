@@ -111,5 +111,60 @@ Note:
 @snapend
 ---
 @snap[north slide-headline span-100]
-## Serverless
+## Serverless Setup
+```
+npm install -g serverless
+serverless create --template google-nodejs --path devfest-kc
+cd devfest-kc
+npm install
+```
+@snapend
+---
+@snap[north slide-headline span-100]
+## Serverless Setup
+```yaml
+# serverless.yml
+service: my-gcloud-service
+
+provider:
+  name: google
+
+plugins:
+  - serverless-google-cloudfunctions
+
+functions:
+  first:
+    handler: myTopicPubSub
+    events:
+      - event:
+          eventType: providers/cloud.pubsub/eventTypes/topic.publish
+          resource: projects/my-devfest-kc-prod-project/topics/my-topic
+```
+@snapend
+
+---
+@snap[north slide-headline span-100]
+## Serverless Setup
+```js
+// index.js
+
+/**
+ * Background Cloud Function to be triggered by Pub/Sub.
+ * This function is exported by index.js, and executed when
+ * the trigger topic receives a message.
+ *
+ * @param {object} event The Cloud Functions event.
+ * @param {function} callback The callback function.
+ */
+exports.myTopicPubSub = (event, callback) => {
+  const pubsubMessage = event.data;
+  const name = pubsubMessage.data
+    ? Buffer.from(pubsubMessage.data, 'base64').toString()
+    : 'World';
+
+  console.log(`Hello, ${name}!`);
+
+  callback();
+};
+```
 @snapend
