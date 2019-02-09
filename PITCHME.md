@@ -27,7 +27,7 @@
 ## Raise Your Hand If You Have Ever...
 @snapend
 
-@snap[midpoint ]
+@snap[midpoint span-80]
 @ul
 - Had an idea for a startup.
 - Actually written code for that idea.
