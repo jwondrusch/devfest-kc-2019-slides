@@ -11,5 +11,6 @@
 @snap[east]
 @css[bio-headline](Jonathan<br>Wondrusch)
 <br>
-@css[bio-byline]([@fa[github pad-fa]](https://github.com/jwondrusch) [@fa[twitter pad-fa]](https://twitter.com/jwondrusch))
+@css[bio-byline]([@fa[github pad-fa]](https://github.com/jwondrusch))
+@css[bio-byline]([@fa[twitter pad-fa]](https://twitter.com/jwondrusch))
 @snapend

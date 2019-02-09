@@ -23,3 +23,32 @@
 @snap[midpoint span-100 mt-50 ]
 @img[serverless-timeline](assets/img/serverless-timeline.png)
 @snapend
+
+---
+
+@snap[midpoint slide-headline span-100]
+# Pop Quiz!
+@snapend
+
+---
+
+@snap[north slide-headline span-100]
+## Have You Ever...
+@snapend
+
+@snap[midpoint span-80]
+@ul
+- Had an idea for a startup.
+- Actually written code for that idea.
+- Work for a startup.
+- Founded a startup.
+- Felt stuck, not sure where to start.
+@ulend
+
+<br/>
+<br/>
+#### @css[oj fragment](**Seriously**, where do you even _begin_?)
+
+@snapend
+
+---
