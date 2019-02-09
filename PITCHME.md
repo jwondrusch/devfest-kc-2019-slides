@@ -63,21 +63,19 @@
 ---
 
 @snap[west]
-@css[bio-headline](Jonathan Wondrusch)
+@css[bio-headline](Jonathan<br>Wondrusch)
 <br>
 @css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
-<br>
-<br>
-@css[bio-tagline](Thank You!)
 @snapend
 
 @snap[east]
-@fa[terminal fa-2x bio-fa](Developer)
-@fa[terminal fa-3x bio-fa](geek)
-@css[bio-about](Application Developer<br>Founder)
+@fa[code bio-about](Application Developer)<br/>
+@fa[flask bio-about](Founder)
 <br><br><br>
+@fa[terminal fa-2x bio-fa](Dev)<br/>
 <br><br><br>
-@css[bio-about](Conference Speaker<br>Gamer)
+@fa[gamepad bio-about](Gamer)<br>
+@fa[book bio-about](Reader)<br>
 @snapend
 
 
