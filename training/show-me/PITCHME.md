@@ -19,15 +19,27 @@ Note:
 @img[meme](assets/img/probably-crazy.jpg)
 ---
 @snap[north slide-headline span-100]
-## The Required Bits
+## The Essential Bits
 @snapend
 
 @snap[midpoint span-100]
 @ul
-- **Users**: Accounts, Auth
-- **Money**: Orders, Payments, Refunds
-- **Communication**: Content, Email Marketing
-- **Reporting**: Success or Failure?
+- @css[oj](**Users**): Accounts, Auth
+- @css[oj](**Money**): Orders, Payments, Refunds
+- @css[oj](**Communication**): Content, Email Marketing
+- @css[oj](**Reporting**): Success or Failure?
+@ulend
+@snapend
+---
+@snap[north slide-headline span-100]
+## Nice to Haves
+@snapend
+
+@snap[midpoint span-100]
+@ul
+- @css[oj](**Fast**): Feels good, has value.
+- @css[oj](**Scalable**): Future success demands it.
+- @css[oj](**Event Driven**): Async by Design
 @ulend
 @snapend
 
@@ -43,10 +55,29 @@ Note:
 
 @snap[mindpoint slide-headline span-100]
 ### @css[oj](JAMstack)
-#### [jamstack.wtf](https://https://jamstack.wtf/)
+#### [jamstack.wtf](https://jamstack.wtf/)
 @snapend
 ---
 @quote[A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup](Mathias Biilmann (CEO of Netlify)).
+---
+@snap[north slide-headline span-100]
+## Technologies
+@snapend
+
+@snap[west process process--info w-33 fragment]
+@css[text-30](@fa[react])
+@css[text-06](React)
+@snapend
+
+@snap[midpoint process process--info w-33 fragment]
+@css[text-30](@fa[server])
+@css[text-06](Back-end)
+@snapend
+
+@snap[east process process--info w-33 fragment]
+@css[text-30](@fa[react])
+@css[text-06](Gatsby)
+@snapend
 ---
 @snap[north slide-headline span-100]
 ## Back-end
