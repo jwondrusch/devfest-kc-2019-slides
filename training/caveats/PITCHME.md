@@ -25,13 +25,13 @@
 
 @snap[midpoint span-100]
 @ul
-- **Duration:** 9min run time.
-- **Invokation Limits:**: 600k/min
-- **Memory**: 2GB Memory
-- **Size**: 10MB cap for messages
+- **Duration:** 9-10min run time
+- **Invocation Limits:** 600k/min
+- **Memory:** 2GB Memory
+- **Size:** 10MB cap for messages
 @ulend
 @snapend
 
-@snap[south span-100]
+@snap[south span-100 fragment]
 #### @css[oj](**Many of these can be increased**)
 @snapend
