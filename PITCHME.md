@@ -118,7 +118,7 @@ Note:
 ## How Do You Reduce Costs?
 @snapend
 
-@snap[midpoint]
+@snap[midpoint span-100]
 @ul
 - Sustained / Committed Use
 - Autoscaler
@@ -128,7 +128,7 @@ Note:
 
 @snap[south fragment span-100]
 #### @css[oj fragment](Requires commitment, and we're still exploring.)
-@spanend
+@snapend
 ---
 
 @snap[north span-100 mb-40]
