@@ -93,3 +93,10 @@
 .text-40 { font-size: 6em; }
 .text-50 { font-size: 6em; }
 .text-60 { font-size: 6em; }
+
+.mb-10 { margin-bottom: 10px; }
+.mb-20 { margin-bottom: 20px; }
+.mb-25 { margin-bottom: 50px; }
+.mb-30 { margin-bottom: 30px; }
+.mb-40 { margin-bottom: 40px; }
+.mb-50 { margin-bottom: 50px; }
