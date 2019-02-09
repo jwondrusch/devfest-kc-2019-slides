@@ -1,8 +1,9 @@
-h1 { font-size: 3em; line-height: 0.9; }
-h2 { font-size: 2em; line-height: 1; }
+.reveal h1 { font-size: 3em; line-height: 0.9; }
+.reveal h2 { font-size: 2em; line-height: 1; }
+
+.pg-cover .title { margin-bottom: 60px; }
 
 .oj { color: orange; }
-.pg-cover .title { margin-bottom: 60px; }
 
 .spaced li {
   margin:0 0 10px 0;
