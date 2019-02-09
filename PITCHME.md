@@ -125,7 +125,7 @@ Note:
 - DIY
 @ulend
 
-#### @css[oj fragment mt-30](Requires commitment, and we're still exploring.)
+#### @css[oj fragment mt-50](Requires commitment.<br> Are you ready for that?)
 @snapend
 ---
 
