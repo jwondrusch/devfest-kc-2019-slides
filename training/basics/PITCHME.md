@@ -32,7 +32,7 @@
 
 ---
 
-@quote[A startup is a [young] company that is trying to do something new or novel.](Ryan Rutan (CEO of Startups.co)).
+@quote[A startup is a company that is trying to do something new or novel.](Ryan Rutan (CEO of Startups.co)).
 
 ---
 
