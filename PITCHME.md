@@ -2,6 +2,10 @@
 
 ---?include=training/introduction/PITCHME.md
 
+---?include=common/about/PITCHME.md
+
+---?include=training/ground-rules/PITCHME.md
+
 ---?include=training/basics/PITCHME.md
 
 @snap[midpoint slide-headline span-100]
@@ -30,36 +34,15 @@
 
 ---
 
-@snap[west]
-@fa[code bio-about](Application Developer)<br>
-@fa[flask bio-about](Founder)
-<br><br>
-@fa[terminal fa-3x bio-fa](dev)
-<br><br>
-@fa[gamepad bio-about](Gamer)<br>
-@fa[book bio-about](Reader)<br>
-@snapend
-
-@snap[east]
-@css[bio-headline](Jonathan<br>Wondrusch)
-<br>
-@css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
-@snapend
-
----
-
 @snap[north span-100]
 ## Once Upon a Time...
 @snapend
 
-@snap[midpoint]
-@color[#f8d026](@fa[bolt text-60])
-@snapend
-
 ---
 
-@snap[midpoint span-100]
+@snap[span-100]
 ## How do you build a startup?
+#### @color[#f8d026](@fa[bolt text-30])
 @snapend
 
 ---
