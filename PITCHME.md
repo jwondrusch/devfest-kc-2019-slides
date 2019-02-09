@@ -1,7 +1,7 @@
 ---?color=#22264b
 @snap[midpoint text-white pg-cover span-100]
 # @css[title](The @css[oj](Serverless) Startup)
-### @css[sub-title](Scalable Ideas, Fast and Easy)
+### @css[sub-title](Scaling Ideas, Fast and Easy)
 @snapend
 
 @snap[south text-white pg-cover]
@@ -57,16 +57,13 @@
 
 @snapend
 
-
----
-
 ---
 
 @snap[west]
 @fa[code bio-about](Application Developer)<br>
 @fa[flask bio-about](Founder)
 <br><br>
-@fa[terminal fa-3x bio-fa](dev)<br/>
+@fa[terminal fa-3x bio-fa](dev)
 <br><br>
 @fa[gamepad bio-about](Gamer)<br>
 @fa[book bio-about](Reader)<br>
@@ -78,5 +75,8 @@
 @css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
 @snapend
 
+---?color=#22264b
 
-
+@snap[midpoint]
+@fa[lightbulb-o text-60 fa-spin]
+@snapend
