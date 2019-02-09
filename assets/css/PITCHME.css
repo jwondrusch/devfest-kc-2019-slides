@@ -33,6 +33,7 @@
   background: rgba(255,255,255,0.25);
 }
 
+.process i { margin-bottom: 20px; }
 .reveal section img {
   background: none;
   border: none;
@@ -88,3 +89,7 @@
 .bio-fa {
   color: #E49436;
 }
+
+.text-40 { font-size: 6em; }
+.text-50 { font-size: 6em; }
+.text-60 { font-size: 6em; }

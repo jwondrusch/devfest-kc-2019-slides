@@ -8,6 +8,7 @@
 #### @css[text-06](by **Jonathan Wondrusch**)
 @css[text-04](@jwondrusch)
 @snapend
+
 ---
 
 @snap[north slide-headline span-100]
@@ -15,23 +16,25 @@
 @snapend
 
 @snap[west process fragment]
-@fa[hand-paper-o text-30]
-@css[text-06](**Participation**)
+@fa[question-circle text-30]
+@css[text-06](**Questions**)
 @snapend
 
 @snap[midpoint process fragment]
-@fa[question-circle text-30]
-@css[text-06](**Questions**)
+@fa[hand-paper-o text-30]
+@css[text-06](**Participation**)
 @snapend
 
 @snap[east process fragment]
 @fa[thumbs-up text-30 oj]
 @css[text-06 oj](**Fun**)
 @snapend
+
 ---
 
 @snap[north slide-headline span-100]
-## Raise Your @fa[hand-paper-o] If...
+# Pop Quiz!
+## @css[oj](@fa[hand-paper-o]( If You Have...))
 @snapend
 
 @snap[midpoint span-80]
@@ -49,16 +52,12 @@
 
 @snapend
 
----
-@snap[west]
-@css[bio-about](Application Developer<br>Founder)
-<br><br><br>
-@fa[terminal fa-3x bio-fa](geek)
-<br><br><br>
-@css[bio-about](Mentor<br>Conference Speaker)
-@snapend
 
-@snap[east bio]
+---
+
+---
+
+@snap[west]
 @css[bio-headline](Jonathan Wondrusch)
 <br>
 @css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
@@ -66,3 +65,15 @@
 <br>
 @css[bio-tagline](Thank You!)
 @snapend
+
+@snap[east]
+@fa[terminal fa-2x bio-fa](Developer)
+@fa[terminal fa-3x bio-fa](geek)
+@css[bio-about](Application Developer<br>Founder)
+<br><br><br>
+<br><br><br>
+@css[bio-about](Conference Speaker<br>Gamer)
+@snapend
+
+
+
