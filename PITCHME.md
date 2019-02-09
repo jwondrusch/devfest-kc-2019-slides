@@ -19,12 +19,12 @@
 @snapend
 
 @snap[east span-40]
-@fa[question-circle]
+@color[#e6cf8b](@fa[question-circle fa-spin 3x])
 @snapend
 ---
 
 @snap[north slide-headline span-100]
-## Raise Your @fa[hand-paper-o] If You Have...
+## Raise Your @fa[hand-paper-o] If...
 @snapend
 
 @snap[midpoint span-80]
