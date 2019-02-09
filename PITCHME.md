@@ -84,20 +84,19 @@
 @snapend
 ---
 @snap[north span-100 mb-25]
-## Startups: The "Right" Way
+## The "Right" Way
 @snapend
 
 @snap[west]
 #### Back-end
 @ul
-- Hosting or Cloud Provider
+- Hosting/Cloud Provider
 - Database
 - Framework
 - Services
 - Networking
 - Environments
 - Scaling
-
 @ulend
 @snapend
 
