@@ -32,8 +32,13 @@
 
 ---
 
-@snap[north slide-headline span-100]
+@snap[midpoint slide-headline span-100]
 # Pop Quiz!
+@snapend
+
+---
+
+@snap[north slide-headline span-100]
 ## @css[oj](@fa[hand-paper-o]( If You Have...))
 @snapend
 
