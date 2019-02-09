@@ -84,11 +84,11 @@
 @snapend
 ---
 @snap[north]
-# Startups the "Right" Way
+## Startups the "Right" Way
 @snapend
 
 @snap[west]
-## Back-end
+#### Back-end
 @ul
 - Hosting or Cloud Provider
 - Database
@@ -102,7 +102,7 @@
 @snapend
 
 @snap[east]
-## Front-end
+#### Front-end
 @ul
 - Design
 - Framework
