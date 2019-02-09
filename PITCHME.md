@@ -124,10 +124,8 @@ Note:
 - Autoscaler
 - DIY
 @ulend
-@snapend
 
-@snap[south fragment span-100]
-#### @css[oj fragment](Requires commitment, and we're still exploring.)
+#### @css[oj fragment mt-30](Requires commitment, and we're still exploring.)
 @snapend
 ---
 
