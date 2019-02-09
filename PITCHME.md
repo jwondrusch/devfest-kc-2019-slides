@@ -75,7 +75,7 @@
 
 ---
 
-@snap[north]
+@snap[north span-100]
 # Once Upon a Time...
 @snapend
 
@@ -83,8 +83,8 @@
 @color[#f8d026](@fa[bolt text-60])
 @snapend
 ---
-@snap[north]
-## Startups the "Right" Way
+@snap[north span-100 mb-25]
+## Startups: The "Right" Way
 @snapend
 
 @snap[west]
