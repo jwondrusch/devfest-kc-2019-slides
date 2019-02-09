@@ -19,6 +19,7 @@
 @snapend
 
 @snap[east span-40]
+@fa[question-circle]
 @snapend
 ---
 
@@ -27,6 +28,22 @@
 @snapend
 
 @snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
+
 ---
+@snap[west]
+@css[bio-about](Application Developer<br>Founder)
+<br><br><br>
+@fa[terminal fa-3x bio-fa](geek)
+<br><br><br>
+@css[bio-about](Mentor<br>Conference Speaker)
+@snapend
+
+@snap[east bio]
+@css[bio-headline](Jonathan Wondrusch)
+<br>
+@css[bio-byline](@fa[github pad-fa] @fa[twitter pad-fa])
+<br>
+<br>
+@css[bio-tagline](Thank You!)
+@snapend
