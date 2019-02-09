@@ -27,7 +27,7 @@ Note:
 3. **The Potential**: How Serverless can save the day
 ---
 @snap[north slide-headline span-100]
-## 1 Crazy Idea
+## A Crazy Idea?
 @snapend
 
 @snap[west process process--danger w-33 fragment]
@@ -35,8 +35,8 @@ Note:
 @css[text-06]($800+/mo)
 @snapend
 
-@snap[midpoint process process--transparent w-25]
-@css[text-30](@fa[chevron-right])
+@snap[midpoint process process--transparent w-25 fragment]
+@css[text-30](@fa[arrow-right])
 @snapend
 
 @snap[east process process--success w-33 fragment]
