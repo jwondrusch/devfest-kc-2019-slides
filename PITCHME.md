@@ -121,3 +121,5 @@ Note:
 ## FaaS? PaaS? IaaS?
 ### @color[#b56969](Huh?!)
 @snapend
+
+---?include=training/show-me/PITCHME.md
