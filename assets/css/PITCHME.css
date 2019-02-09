@@ -94,6 +94,14 @@
 .text-50 { font-size: 5em; }
 .text-60 { font-size: 6em; }
 
+
+.mt-10 { margin-top: 10px; }
+.mt-20 { margin-top: 20px; }
+.mt-25 { margin-top: 50px; }
+.mt-30 { margin-top: 30px; }
+.mt-40 { margin-top: 40px; }
+.mt-50 { margin-top: 50px; }
+
 .mb-10 { margin-bottom: 10px; }
 .mb-20 { margin-bottom: 20px; }
 .mb-25 { margin-bottom: 50px; }
