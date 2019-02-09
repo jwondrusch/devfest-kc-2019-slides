@@ -83,8 +83,10 @@
 
 ---
 
+@snap[span-100 mb-40]
+# What is @css[oj](Serverless?)
+@snapend
 @snap[midpoint span-100]
-# @css[mb-40](What is @css[oj](Serverless?))
 ## FaaS? PaaS? IaaS?
 ### @color[#b56969](Huh?!)
 @snapend
