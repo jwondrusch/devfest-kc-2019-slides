@@ -51,7 +51,7 @@ Note:
 2. **Startup Realities**: Wide variety of skillsets required to scale, cost, cost, cost.
 3. **The Potential**: How Serverless can save the day
 ---
-@img[meme meme--crazy-fry](assets/crazy-or-genius.jpg)
+@img[meme meme--crazy-fry](assets/img/crazy-or-genius.jpg)
 ---
 @snap[north slide-headline span-100]
 ## Ground Rules
