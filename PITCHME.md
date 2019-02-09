@@ -24,7 +24,7 @@
 ---
 
 @snap[north slide-headline span-100]
-## @fa[fa-hand](Raise Your Hand If...)
+## @fa[hand](Raise Your Hand If...)
 @snapend
 
 @snap[midpoint span-80]
@@ -36,6 +36,8 @@
 - Weren't sure where to start.
 @ulend
 
+<br/>
+<br/>
 #### @css[oj fragment](**Seriously**, where do you even _begin_?)
 
 @snapend
