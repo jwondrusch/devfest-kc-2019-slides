@@ -30,8 +30,17 @@ Note:
 ## 1 Crazy Idea
 @snapend
 
-@snap[midpoint span-100 text-40]
-@color[red]($800+/mo) @color[yellow](=>) @color[green]($10/mo)
+@snap[west process process--danger fragment]
+@css[text-30](@fa[dollar]@fa[dollar]@fa[dollar])
+@css[text-06]($800+/mo)
+@snapend
+
+@snap[midpoint]
+@snapend
+
+@snap[east process process--success fragment]
+@css[text-30](@fa[dollar])
+@css[text-06]($10/mo)
 @snapend
 
 Note:

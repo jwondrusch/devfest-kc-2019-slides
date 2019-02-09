@@ -33,6 +33,9 @@
   background: rgba(255,255,255,0.25);
 }
 
+.process--success { background:#009933; }
+.process--danger { background:#993300; }
+
 .process i { margin-bottom: 20px; }
 .reveal section img {
   background: none;
