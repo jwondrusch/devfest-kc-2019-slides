@@ -24,7 +24,7 @@
 ---
 
 @snap[north slide-headline span-100]
-## Raise Your @fa[fa-hand-paper spin] If You Have Ever...
+## @fa[fa-hand-paper fa-spin](Raise Your Hand If...)
 @snapend
 
 @snap[midpoint span-80]
