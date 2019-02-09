@@ -49,20 +49,8 @@
 
 @snap[east process process--success w-33 fragment]
 @css[text-30](@fa[dollar])
-@css[text-06]($10/mo)
+@css[text-06]($10.04/mo)
 @snapend
 ---
 
 @img[meme meme--crazy-fry](assets/img/crazy-or-genius.jpg)
-
----
-
-@snap[midpoint]
-# @css[oj](Questions?)
-@snapend
-
----
-@snap[midpoint]
-# Thank You!
-@snapend
----

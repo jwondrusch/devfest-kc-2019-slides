@@ -101,6 +101,8 @@ Note:
 ---?code=assets/src/firebase-fns.js&lang=js&title=Firebase Functions
 ---?code=assets/src/firebase-deploy.sh&lang=bash&title=Deploy to Firebase
 
+---
+
 @snap[north slide-headline span-100]
 ## Right Tools for the Job
 @snapend
