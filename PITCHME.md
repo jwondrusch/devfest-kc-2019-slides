@@ -1,5 +1,10 @@
-# Let's Get Started
+# The Serverless Startup
+## Scalable Ideas, Fast and Easy
 
+**Jonathan Wondrusch**
+---
+
+## Ground Rules
 ---
 
 ## Add Some Slide Candy
