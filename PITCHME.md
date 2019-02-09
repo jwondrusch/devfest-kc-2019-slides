@@ -83,7 +83,7 @@
 
 ---
 
-@snap[span-100 mb-40]
+@snap[north span-100 mb-40]
 # What is @css[oj](Serverless?)
 @snapend
 @snap[midpoint span-100]
