@@ -13,11 +13,11 @@
 ## What to Expect
 @snapend
 
-@snap[span-100]
+@snap[midpoint span-100]
 @ul
-1. The Basics
-2. Startup Realities
-3. Serverless Potential
+- The Basics
+- Startup Realities
+- Serverless Potential
 @ulend
 @snapend
 
