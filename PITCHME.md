@@ -8,6 +8,23 @@
 #### @css[text-06](by **Jonathan Wondrusch**)
 @css[text-04](@jwondrusch)
 @snapend
+---
+@snap[north slide-headline span-100]
+## The Map
+@snapend
+
+@snap[span-100]
+@ol
+1. The Basics
+2. Startup Realities
+3. Serverless Potential
+@olend
+@snapend
+
+Note:
+1. **The Basics**: What is Serverless? What are Startups?
+2. **Startup Realities**: Wide variety of skillsets required to scale, cost, cost, cost.
+3. **The Potential**: How Serverless can save the day
 
 ---
 
@@ -118,13 +135,35 @@
 @snapend
 
 ---
-
 @snap[north span-100]
 ## See any problems?
 @snapend
 
 @snap[midpoint]
 @fa[hand-paper-o text-60]
+@snapend
+
+---
+@snap[north span-100]
+## Costs Accumulate Quickly
+@snapend
+
+@snap[midpoint]
+@fa[dollar text-green text-60]@fa[dollar text-green text-60]@fa[dollar text-green text-60]
+@snapend
+
+Note:
+- $200+ for 3 Production Servers to handle API requests, Queue Workers, Websockets
+- $100+ for Staging to mirror production on smaller resources.
+- $250+ for a Production Database
+- $$$ for backups
+---
+@snap[north span-100]
+## How Do You Reduce Costs?
+@snapend
+
+@snap[midpoint]
+@fa[dollar text-green text-60]@fa[dollar text-green text-60]@fa[dollar text-green text-60]
 @snapend
 ---
 
