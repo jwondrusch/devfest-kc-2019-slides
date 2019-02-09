@@ -23,7 +23,7 @@
 
 .process {
   width: 25%;
-  height: 25%;
+  padding: 40px 0 !important;
   color: white;
   border-radius: 16px;
   display: flex;

@@ -15,17 +15,17 @@
 @snapend
 
 @snap[west process fragment]
-@fa[hand-paper-o text-30]<br>
+@fa[hand-paper-o text-30]
 @css[text-06](**Participation**)
 @snapend
 
 @snap[midpoint process fragment]
-@fa[question-circle text-30]<br>
+@fa[question-circle text-30]
 @css[text-06](**Questions**)
 @snapend
 
 @snap[east process fragment]
-@fa[thumbs-up text-30]<br>
+@fa[thumbs-up text-30 oj]
 @css[text-06 oj](**Fun**)
 @snapend
 ---
