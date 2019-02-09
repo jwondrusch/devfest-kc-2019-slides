@@ -1,7 +1,7 @@
 .reveal h1 { font-size: 3em; line-height: 0.9; }
 .reveal h2 { font-size: 2em; line-height: 1; }
 
-.pg-cover .title { margin-bottom: 60px; }
+.pg-cover .reveal h1 { margin-bottom: 60px; }
 
 .oj { color: orange; }
 
