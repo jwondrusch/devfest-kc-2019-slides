@@ -13,13 +13,13 @@
 @snap[west span-60]
 ## Ground Rules
 @ul[spaced]
-- Questions welcome!
+- @color[#e6cf8b](@fa[question-circle fa-spin]) Questions welcome!
 - Be ready to answer some.
 @ulend
 @snapend
 
 @snap[east span-40]
-@color[#e6cf8b](@fa[question-circle fa-spin 3x])
+
 @snapend
 ---
 
