@@ -1,9 +1,14 @@
 ---?color=#22264b
-@snap[span-100 text-white pg-cover]
+@snap[midpoint text-white pg-cover]
 # @css[title](The @css[oj](Serverless) Startup)
-### @css[sub-title](Scalable Ideas,<br/>Fast and Easy)
+### @css[sub-title](Scalable Ideas, Fast and Easy)
+@snapend
 
-**Jonathan Wondrusch**
+@snap[south text-white pg-cover text-06]
+by **Jonathan Wondrusch**
+@snapend
+@snap[south text-white pg-cover text-0]
+@jwondrusch
 @snapend
 ---
 
