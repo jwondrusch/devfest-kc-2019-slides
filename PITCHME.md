@@ -37,7 +37,7 @@
 ---
 
 @snap[north slide-headline span-100]
-## @css[oj](@fa[hand-paper-o]( If You Have...))
+## Have You Ever...
 @snapend
 
 @snap[midpoint span-80]
@@ -46,7 +46,7 @@
 - Actually written code for that idea.
 - Work for a startup.
 - Founded a startup.
-- Weren't sure where to start.
+- Felt stuck, not sure where to start.
 @ulend
 
 <br/>
@@ -76,7 +76,7 @@
 ---
 
 @snap[north span-100]
-# Once Upon a Time...
+## Once Upon a Time...
 @snapend
 
 @snap[midpoint]
