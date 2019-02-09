@@ -10,15 +10,15 @@
 @snapend
 ---
 @snap[north slide-headline span-100]
-## The Map
+## What to Expect
 @snapend
 
 @snap[span-100]
-@ol
+@ul
 1. The Basics
 2. Startup Realities
 3. Serverless Potential
-@olend
+@ulend
 @snapend
 
 Note:
