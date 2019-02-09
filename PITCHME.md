@@ -80,3 +80,11 @@
 @snap[midpoint]
 @fa[lightbulb-o text-60 fa-spin]
 @snapend
+
+---
+
+@snap[north slide-headline span-100]
+# FaaS? PaaS? IaaS? @css[oj](Huh?!)
+@snapend
+
+---
