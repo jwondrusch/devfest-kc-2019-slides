@@ -25,6 +25,8 @@ Note:
 1. **The Basics**: What is Serverless? What are Startups?
 2. **Startup Realities**: Wide variety of skillsets required to scale, cost, cost, cost.
 3. **The Potential**: How Serverless can save the day
+
+2/3 Strategic, 1/3 Tactical
 ---
 @snap[north slide-headline span-100]
 ## A Crazy Idea?
@@ -48,6 +50,8 @@ Note:
 1. **The Basics**: What is Serverless? What are Startups?
 2. **Startup Realities**: Wide variety of skillsets required to scale, cost, cost, cost.
 3. **The Potential**: How Serverless can save the day
+---
+@img[meme meme--crazy-fry](assets/crazy-or-genius.jpg)
 ---
 @snap[north slide-headline span-100]
 ## Ground Rules

@@ -128,7 +128,8 @@ Note:
 #### @css[oj fragment](Requires commitment.<br> Are you ready for that?)
 @snapend
 ---
-
+@img[meme meme--overwhelmed](assets/overwhelmed.jpg)
+---
 @snap[north span-100 mb-40]
 # What is @css[oj](Serverless?)
 @snapend

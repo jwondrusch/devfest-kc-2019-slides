@@ -23,13 +23,3 @@
 @snap[midpoint span-100 mt-50 ]
 @img[serverless-timeline](assets/img/serverless-timeline.png)
 @snapend
----
-@snap[north span-100 mb-40]
-# What is @css[oj](Serverless?)
-@snapend
-
-@snap[midpoint span-100 mt-50]
-## FaaS? PaaS? IaaS?
-### @color[#b56969](Huh?!)
-@snapend
----
