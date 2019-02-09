@@ -8,16 +8,16 @@
 @snapend
 ---
 @snap[north span-100 mb-40]
-# The Framework
+## The Framework
 @snapend
 
-@snap[midpoint span-100 mt-50 ]
-@img[serverless-logo mb-30](assets/img/serverless-logo.png)
+@snap[midpoint span-100 mt-40 ]
+@img[serverless-logo mb-40](assets/img/serverless-logo.png)
 #### @css[oj](Best branding in the space, right?)
 @snapend
 ---
 @snap[north span-100 mb-40]
-# New Application Architecture
+## New Application Architecture
 @snapend
 
 @snap[midpoint span-100 mt-50 ]
