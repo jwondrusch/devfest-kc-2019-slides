@@ -24,7 +24,7 @@
 ---
 
 @snap[north slide-headline span-100]
-## @fa[hand-paper-o](Raise Your Hand If...)
+## Raise Your @fa[hand-paper-o] If You Have...
 @snapend
 
 @snap[midpoint span-80]
