@@ -101,7 +101,7 @@
 
 ---
 @snap[north span-100]
-## Costs Accumulate Quickly
+## High Cost for Small Budgets
 @snapend
 
 @snap[midpoint]
@@ -119,8 +119,16 @@ Note:
 @snapend
 
 @snap[midpoint]
-@fa[dollar text-green text-60]@fa[dollar text-green text-60]@fa[dollar text-green text-60]
+@ul
+- Sustained / Committed Use
+- Autoscaler
+- DIY
+@ulend
 @snapend
+
+@snap[south fragment span-100]
+#### @css[oj fragment](Requires commitment, and we're still exploring.)
+@spanend
 ---
 
 @snap[north span-100 mb-40]
