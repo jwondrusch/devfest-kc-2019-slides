@@ -119,29 +119,7 @@ cd devfest-kc
 npm install
 ```
 @snapend
----
-@snap[north slide-headline span-100]
-## Serverless Setup
-```yml
-# serverless.yml
-service: my-gcloud-service
-
-provider:
-  name: google
-
-plugins:
-  - serverless-google-cloudfunctions
-
-functions:
-  first:
-    handler: myTopicPubSub
-    events:
-      - event:
-          eventType: providers/cloud.pubsub/eventTypes/topic.publish
-          resource: projects/my-devfest-kc-prod-project/topics/my-topic
-```
-@snapend
-
+---?code=assets/src/serverless.yml&lang=yml
 ---
 @snap[north slide-headline span-100]
 ## Serverless Setup
