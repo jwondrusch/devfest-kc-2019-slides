@@ -26,6 +26,16 @@
 
 ---
 
+@snap[midpoint span-100]
+# What is a @css[oj](startup?)
+@snapend
+
+---
+
+@quote[A startup is a [young] company that is trying to do something new or novel.](Ryan Rutan (CEO of Startups.co)).
+
+---
+
 @snap[midpoint slide-headline span-100]
 # Pop Quiz!
 @snapend
@@ -50,5 +60,3 @@
 #### @css[oj fragment](**Seriously**, where do you even _begin_?)
 
 @snapend
-
----

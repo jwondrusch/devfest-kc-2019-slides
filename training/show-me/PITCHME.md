@@ -1,5 +1,5 @@
 @snap[midpoint slide-headline span-100]
-# Time to @css[oj](**Build**)
+# What's the @css[oj](**Alternative?**)
 @snapend
 ---
 @snap[north slide-headline span-100]
@@ -113,4 +113,3 @@ Note:
 @snap[north slide-headline span-100]
 ## Serverless
 @snapend
----

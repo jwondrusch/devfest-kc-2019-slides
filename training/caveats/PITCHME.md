@@ -1,5 +1,5 @@
-@snap[north slide-headline span-100]
-# Technology = @css[oj](Tradeoffs)
+@snap[midpoint slide-headline span-100]
+## Technology = @css[oj](Tradeoffs)
 @snapend
 
 ---
@@ -24,18 +24,14 @@
 @snapend
 
 @snap[midpoint span-100]
+@ul
 - **Duration:** 9min run time.
 - **Invokation Limits:**: 600k/min
 - **Memory**: 2GB Memory
 - **Size**: 10MB cap for messages
-
-@ul
-
 @ulend
 @snapend
 
 @snap[south span-100]
 #### @css[oj](**Many of these can be increased**)
 @snapend
-
----
