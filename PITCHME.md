@@ -92,10 +92,8 @@
 @ul
 - Hosting/Cloud Provider
 - Database
-- Framework
 - Services
 - Networking
-- Environments
 - Scaling
 @ulend
 @snapend
@@ -104,10 +102,10 @@
 #### Front-end
 @ul
 - Design
-- Framework
+- Frameworks
 - Performance
-- Caching
 - Testing
+- Environments
 @ulend
 @snapend
 
