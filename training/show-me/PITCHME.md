@@ -1,7 +1,15 @@
 @snap[midpoint slide-headline span-100]
 # What's the @css[oj](**Alternative?**)
 @snapend
+
 ---
+
+@snap[midpoint slide-headline span-100]
+# Let @css[oj](someone else) do it.
+@snapend
+
+---
+
 @snap[north slide-headline span-100]
 ## A Little More Crazy
 @snapend
@@ -79,14 +87,22 @@ Note:
 @ul
 - **Firebase**: Functions, Auth, Realtime Database.
 - **Google Cloud** Pub/Sub, Storage
-- **Serverless:** Framework to coordinate events.
 
 @ulend
 
 ---
 
+@snap[midpoint slide-headline span-100]
+# Code Samples
+## A Small Cross-Section
+@snapend
+
+---?code=assets/src/firebase-fns.sh&lang=bash&title=Setup Firebase
+---?code=assets/src/firebase-fns.js&lang=js&title=Firebase Functions
+---?code=assets/src/firebase-deploy.sh&lang=bash&title=Deploy to Firebase
+
 @snap[north slide-headline span-100]
-## Users and Authentication
+## Right Tools for the Job
 @snapend
 
 @snap[midpoint span-100]
@@ -97,4 +113,3 @@ Note:
 - @css[oj](**Reporting**): Success or Failure?
 @ulend
 @snapend
----
