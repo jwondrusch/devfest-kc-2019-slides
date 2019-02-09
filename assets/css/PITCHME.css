@@ -21,6 +21,16 @@
 
 .slide-headline { margin-bottom: 50px; }
 
+.process {
+  width: 25%;
+  color: white;
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255,255,255,0.25);
+}
+
 .reveal section img {
   background: none;
   border: none;
@@ -35,7 +45,6 @@
   color: white;
   font-weight: bold;
 }
-
 
 
 .bio {

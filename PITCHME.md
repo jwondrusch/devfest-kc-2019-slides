@@ -14,14 +14,19 @@
 ## Ground Rules
 @snapend
 
-@snap[fragment block]
+@snap[west process fragment]
 @fa[hand-paper-o]
 ## Participation
 @snapend
 
-@snap[fragment block]
+@snap[midpoint process fragment]
 @fa[question-circle]
 ## Questions
+@snapend
+
+@snap[east process fragment]
+@fa[thumbs-up]
+## Fun
 @snapend
 ---
 
