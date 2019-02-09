@@ -122,7 +122,7 @@ npm install
 ---
 @snap[north slide-headline span-100]
 ## Serverless Setup
-```yaml
+```yml
 # serverless.yml
 service: my-gcloud-service
 
@@ -145,7 +145,7 @@ functions:
 ---
 @snap[north slide-headline span-100]
 ## Serverless Setup
-```js
+```javascript
 // index.js
 
 /**

@@ -30,6 +30,8 @@ footnote : "The Serverless Startup - Scaling Ideas, Fast and Easy"
 #
 published : true
 
+highlight : monokai
+
 #
 # Twitter Card Settings [Pro Only]
 # Doc: https://gitpitch.com/docs/settings/twitter-card
